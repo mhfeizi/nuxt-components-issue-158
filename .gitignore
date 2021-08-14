@@ -5,6 +5,9 @@ node_modules/
 yarn-debug.log*
 yarn-error.log*
 
+# Coverage directory used by tools like istanbul
+coverage/
+
 
 # Nuxt build directory
 .nuxt

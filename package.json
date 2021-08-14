@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-components-issue-158",
+  "homepage": "https://github.com/mhfeizi/nuxt-components-issue-158",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "vuetify": "^2.5.7"
+  },
+  "devDependencies": {
+    "@nuxt/test-utils": "^0.2.2",
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@types/jest": "^26.0.23",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.0.2",
+    "jest": "^27.0.6",
+    "nuxt": "^2.15.7",
+    "playwright": "^1.12.3",
+    "ts-jest": "^27.0.3",
+    "vue": "^2.6.10",
+    "vue-jest": "^3.0.4"
+  }
+}

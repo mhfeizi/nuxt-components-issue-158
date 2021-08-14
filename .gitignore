@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# yarn files
+yarn-debug.log*
+yarn-error.log*
+
+
+# Nuxt build directory
+.nuxt
